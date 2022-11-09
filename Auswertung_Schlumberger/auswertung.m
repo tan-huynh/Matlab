@@ -2,7 +2,7 @@
 
 %% Auswertung von Schlumberger Sweep
 %% Autor: Huynh Ngoc Tan
-%% Email: tan.huynhngoc@mabel.info / huynh.ngoctan@yahoo.com
+%% Email: tan.huynhngoc@mabel.info
 %% MABEL Insitut, Hochschule Mannheim, Deutschland
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
