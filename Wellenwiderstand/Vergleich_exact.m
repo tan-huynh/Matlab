@@ -2,7 +2,6 @@
 
 %% Simulation von der Anpassung des Wellenwiderstand 
 %% Autor: Huynh Ngoc Tan
-%% Email: tan.huynhngoc@mabel.info / huynh.ngoctan@yahoo.com
 %% MABEL Insitut, Hochschule Mannheim, Deutschland
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
