@@ -1,7 +1,6 @@
 %% --------------------------------------
 %% M.Sc Tan Huynh Ngoc
 %% Hochschule Mannheim
-%% huynh.ngoctan@yahoo.com
 %% --------------------------------------
 
 figure,
@@ -41,4 +40,5 @@ ylabel('Manschettendruck / mmHg');
 Leg = legend([a1; a3; b], {'U_{y} envelope', 'PTT Hardware','Manschettendruck'});
 Pos = get(Leg, 'Position');
 set(Leg, 'Position', [Pos(1:4)]);
+
 linkaxes([ax(1) ax(2) ax(3)], 'x'); 
