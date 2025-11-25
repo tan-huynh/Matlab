@@ -1,7 +1,6 @@
 %% --------------------------------------
 %% M.Sc Tan Huynh Ngoc
 %% Hochschule Mannheim
-%% huynh.ngoctan@yahoo.com
 %% --------------------------------------
 
 figure,
@@ -28,3 +27,4 @@ Leg = legend([a1; b], {'PTT Software','Manschettendruck'});
 Pos = get(Leg, 'Position');
 set(Leg, 'Position', [Pos(1:4)]);
 linkaxes([ax(1) ax(2)], 'x'); dualcursor;%vertical_cursors;
+
